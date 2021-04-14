@@ -1,0 +1,36 @@
+PROJE GRUP ÜYELERİ
+
+Hilal Fatmagül NİŞANCİ
+Feyzanur YEŞİLDAL
+
+PROJENİN ÇALIŞTIRILMASI
+
+Proje build package'i altında bulunan test.java class ı ile çalıştırılır. Karşınıza gelen giriş ekranında isim girip Enter'a bastığınızda START butonu gelir ve butona basmanızla oyun ekranı açılır.
+
+PROJEDE BULUNAN SPORCULAR VE BİLGİLERİ
+
+BASKETBOL OYUNCULARI
+-- ikilik,üçlük,serbest atış 
+
+1-Kobe Bryant 21,12,23
+2-Stephen Curry 12,13,15
+3-Cedi Osman 8,6,7
+4-Kevin Durant 17,7,24
+5-James Harden 14,10,24
+6-Luka Dončić 11,8,18
+7-Kevin Love 13,8,19
+8-LeBron James 21,8,24
+
+
+FUTBOL OYUNCULARI
+-- penaltı,asist,serbest vuruş
+
+1-Lionel Messi 97,282,47
+2-Cristiano Ronaldo 129,223,46
+3-Lautaro Martinez 4,16,0
+4-Mesut Özil 8,216,4
+5-Neymar 53,156,14
+6-Cenk Tosun 24,43,2
+7-Hakan Çalhanoğlu 16,93,24
+8-Arda Turan 1,126,0
+
